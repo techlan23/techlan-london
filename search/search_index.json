@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Hello TechLan London 2023","text":"<p>Starter Site for 10, Now with GitHub Actions working properly perhaps?</p>"}]}
